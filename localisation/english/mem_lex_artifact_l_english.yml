@@ -56,7 +56,7 @@
  mem_ARTIFACT_WEAPON_DESC:0 "This weapon focuses psionic energies from a bound shroud spirit into a powerful beam capable of bending time and space with cataclysmic results."
  
  mem_artifact_cipher_chain_title:0 "Lock & Key"
- mem_artifact_cipher_chain_desc:0 "Gather the ciphers and move them to the Nihara system to activate the relic."
+ mem_artifact_cipher_chain_desc:0 "Gather all the ciphers and move them to the Nihara system to activate the relic."
  mem_artifact_cipher_counter:0 "Ciphers Collected"
  
  mem_artifact_cipher_1_poi:0 "Research Facility Alpha"
@@ -73,13 +73,13 @@
  damage_vs_country_type_mem_gate_guardian_mult:0 "Damage to Lament" 
  
  MEM_GATE_EXPLORE:0 "Shrouded"
- MEM_GATE_EXPLORE_DESC:0 "We have located an ancient research facility in the Nihara system. We should investigate it immediatly."
+ MEM_GATE_EXPLORE_DESC:0 "We have located an ancient research facility in the Nihara system. We should investigate it immediately."
 
  MEM_RELIC_ACCESS:0 "Into the Vortex"
- MEM_RELIC_ACCESS_DESC:0 "Our scientists collectively agreed that there is no time to waste. We should immediatly begin to study the main object for any possible applications of its technology."
+ MEM_RELIC_ACCESS_DESC:0 "Our scientists collectively agreed that there is no time to waste. We should immediately begin to study the main object for any possible applications of its technology."
  
  MEM_RELIC_TRUE_ACCESS:0 "The Artifact"
- MEM_RELIC_TRUE_ACCESS_DESC:0 "We have to find out what secrets this artifact holds. Whatever they are we cannot let them fall into our enemies hands."
+ MEM_RELIC_TRUE_ACCESS_DESC:0 "We have to find out what secrets this artifact holds. Whatever they are we must not let them fall into our enemies hands."
  
  MEM_CIPHER_1_ACCESS:0 "First Cipher"
  MEM_CIPHER_1_ACCESS_DESC:0 "Recover the first cipher from the research facility in the [mem_cipher_1_system_name.GetName] system."
@@ -118,7 +118,7 @@
 
  mem_artifact.63.name:0 "Cloudbuster"
  mem_artifact.63.1.desc:0 "The defense mechanism has been destroyed and we should now be able to access the artifact without further suprises. A new project has been issued at the artifact and our staff stands ready to begin with the work."
- mem_artifact.63.2.desc:0 "After bringing the ciphers to their intended coordinates as described in the information we got from the abandoned station orbiting Gandvik they seem to have deactivated a formerly hidden defensive mechanism.\n\nNow that our path is clear we should begin to examine the main artifact itself."
+ mem_artifact.63.2.desc:0 "After bringing the ciphers to the coordinates detailed in the information we retrieved from the abandoned station orbiting Gandvik they seem to have deactivated a formerly hidden defensive mechanism.\n\nNow that our path is clear we should begin to examine the main artifact itself."
  mem_artifact.63.1.a:0 "Let's finish what we have begun."
  mem_artifact.63.2.a:0 "Make it so."
  
@@ -127,7 +127,7 @@
  mem_artifact.64.a:0 "Good to know, it is in our hands."
 
  mem_artifact.65.name:0 "The Lament"
- mem_artifact.65.desc:0 "When the activation sequence drew near completion a sudden flash brought everything to a halt. All vessels in the system have been moved to the relic whose energy output had went out of the measurable range before becoming inactive again.\n\nOnly moments later three objects formed at the edge of the storm's eye. According to our sensors their energy level is rising rapidly. We must have activated some kind of defensive mechanism."
+ mem_artifact.65.desc:0 "When the activation sequence drew near completion a sudden flash brought everything to a halt. All vessels in the system have been moved to the relic whose energy output had went out of measurable range before becoming inactive again.\n\nOnly moments later three objects formed at the edge of the storm's eye. According to our sensors their energy level is rising rapidly. We must have activated some kind of defensive mechanism."
  mem_artifact.65.a:0 "It's a trap!"
 
  mem_artifact.100.name:0 "Research Facility Alpha"
@@ -201,6 +201,6 @@
  mem_artifact.301.b:0 "Our military has no need for this."
  
  mem_artifact.302.name:0 "Cloudbreaker" 
- mem_artifact.302.desc:0 "Our scientists believe they have developed military hardward to counteract the defenses that proved unassailable by our forces in our last encounter. Our officers are eager to test their new equipment on the enemy." 
+ mem_artifact.302.desc:0 "Our scientists believe they have developed military hardware to counteract the defenses that proved unassailable by our forces in our last encounter. Our officers are eager to test their new equipment on the enemy." 
  mem_artifact.302.a:0 "Victory shall be ours!"
  
